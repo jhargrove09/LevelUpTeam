@@ -1,15 +1,15 @@
 #!/bin/bash
 
-echo "Please enter your name:"
+echo "Please enter your full name:"
 read name
-echo "Reading.... please wait"
+echo "Reading.... thank you for waiting"
 sleep 3 
 echo "-----------------------------"
 echo "Your username is:" && whoami 
 echo "-----------------------------"
 echo "This is one of my first Linux Scripts"
 sleep 2
-echo "Please wait while we process the date......."
+echo "Thank you for waiting while we process the date......."
 sleep 3
 echo "Made on:" && date
 echo "-----------------------------"
